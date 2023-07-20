@@ -14,3 +14,7 @@ This is my attempt to learn coding.
 _resultsPerKeyword_ can't be higher than _10_ or Badrequest Error is thrown.
 
 _Httpx Output_ is fucked up. Cant resolve this on my own.
+
+
+***Disclaimer:
+I the creator assumes no responsibility for anyones actions taken as a result of this code.***
